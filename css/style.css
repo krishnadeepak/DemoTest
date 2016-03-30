@@ -1,0 +1,21 @@
+/*External CSS*/
+
+body {
+	font-family: arial !important;
+	background-color: #e2e3e5;
+}
+h1{
+	color: #7409f7;
+	
+	
+}
+p{
+	color: #edd712;
+}
+.colorp{
+	color: #000;
+	font-family: verdana;
+}
+#pcolor{
+	color: #f91206;
+}
